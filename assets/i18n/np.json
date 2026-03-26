@@ -29,7 +29,6 @@
   "cancel": "रद्द गर्नुहोस्",
   "save_and_continue": "सेभ गर्नुहोस् र अगाडि बढ्नुहोस्",
   "next": "अर्को",
-  "interest_rate": "ब्याज दर",
   "company_detail": "कम्पनी विवरण",
   "vat_number": "भ्याट नम्बर",
   "name": "नाम",
@@ -125,17 +124,5 @@
   "download_payment_schedule": "भुक्तानी तालिका डाउनलोड गर्नुहोस्",
   "shareholders_required": "शेयरधनीको जानकारी आवश्यक",
   "please_fill_shareholders_information": "कृपया अगाडि बढ्नु अघि शेयरधनीको जानकारी भर्नुहोस्।",
-  "fill_shareholders_info": "शेयरधनीको जानकारी भर्नुहोस्",
-  "calculated_emi": "Calculated EMI",
-  "password_is_required": "पासवर्ड अनिवार्य छ",
-  "you_can_now_login_with_your_new_password": "आफ्नो नयाँ पासवर्डलाई लगइन गर्नुहोस्",
-  "enter_your_email_to_signup": "साइन अप गर्न आफ्नो इमेल प्रविष्ट गर्नुहोस्",
-  "set_your_password": "आफ्नो पासवर्ड सेट गर्नुहोस्",
-  "registered_successfully": "सफलतापूर्वक दर्ता भयो!",
-  "you_can_now_apply_for_loan": "अब तपाई ऋणको लागि आवेदन दिन सक्नुहुन्छ।",
-  "success": "सफल",
-  "passwords_do_not_match": "पासवर्डहरू मेल खाँदैनन्",
-  "done": "सम्पन्न",
-  "you_can_now_proceed_with_your_application": "अब तपाई आवेदन दिन सक्नुहुन्छ।",
-  "account_created_successfully": "सफलतापूर्वक खाता बनाइएको छ।"
+  "fill_shareholders_info": "शेयरधनीको जानकारी भर्नुहोस्"
 }
