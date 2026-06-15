@@ -24,8 +24,8 @@
   "password_changed_successfully": "पासवर्ड सफलतापूर्वक बदलियो",
   "new_password": "नयाँ पासवर्ड",
   "mobile_number":"मोबाइल नंबर",
-  "account_holder_number":"खाताको सामान्यकारी",
-  "account_holder_name":"खाताको सामान्यकारी",
+  "account_holder_number": "खाता नंबर",
+  "account_holder_name": "खाताधारकको नाम",
   "download_sample_board_minute":"साझा बिषयको साझा मिनिट्स",
   "confirm_password": "पासवर्ड निश्चित गर्नुहोस्",
   "sign_up": "साइन अप गर्नुहोस्",
@@ -116,7 +116,7 @@
   "language" : "नेपाली",
   "authorized_person_email":"सही व्यक्तिको इमेल",
   "sn": "क्रम संख्या",
-  "processing_fee_(0.75%)": "ऋण प्रक्रिया कम्पनी रकम 0.75 अधिकतम ऋण रकम भन्दा बढी हुन सक्दैन",
+  "processing_fee": "प्रक्रिया शुल्क (0.75%)",
   "loan_tenure":"ऋण अवधि",
   "do_you_have_existing_loan_with-other_bfis_including_sbl": "तपाईंको अन्य वित्तीय संस्थाहरूमा SBL सहित कुनै विद्यमान ऋण छ?",
   "general_information": "सामान्य जानकारी",
@@ -140,6 +140,8 @@
   "citizenship_photo": "नागरिकता फोटो",
   "Loan_Period_In_Months": "ऋण अवधि (महिनामा)",
   "Interest_Rate": "ब्याज दर",
+  "base_interest_rate": "मूल ब्याज दर",
+  "premium_interest_rate": "प्रिमियम ब्याज दर",
   "Download_Board_minute": "बोर्ड बैठक कार्यविवरण डाउनलोड",
   "This_person_is_authorized_person_to_apply_for_loan_&_same_has_to_be_mentioned_in_the_board_minute_as_well.": "यो व्यक्ति ऋणको लागि आवेदन दिन अधिकार प्राप्त व्यक्ति हो र यस विषयमा बोर्ड बैठकको कार्यविवरणमा समेत उल्लेख गर्नुपर्छ।",
   "payment_frequency": "भुक्तानीको आवृत्ति",
@@ -156,5 +158,6 @@
   "done": "सम्पन्न",
   "you_can_now_proceed_with_your_application": "अब तपाई आवेदन दिन सक्नुहुन्छ।",
   "account_created_successfully": "सफलतापूर्वक खाता बनाइएको छ।",
-  "you_can_now_login_with_your_new_password": "अब तपाई नयाँ पासवर्डलाई लगइन गर्न सक्नुहुन्छ।"
+  "you_can_now_login_with_your_new_password": "अब तपाई नयाँ पासवर्डलाई लगइन गर्न सक्नुहुन्छ।",
+  "total": "कुल"
 }

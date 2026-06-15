@@ -88,8 +88,8 @@
   "last_modified_date": "Last Modified Date",
   "loan_settlement": "Loan Settlement",
   "mobile_number": "Mobile Number",
-  "account_holder_number": "Account Holder Name",
-  "account_holder_name": "Account Holder Number",
+  "account_holder_number": "Account Number",
+  "account_holder_name": "Account Holder Name",
   "service_charge": "Service Charge",
   "edit_loan_application": "Edit Loan Application",
   "loan_details": "Loan Details",
@@ -116,7 +116,7 @@
   "english": "English",
   "nepali" : "Nepali",
   "language" :"EN",
-  "processing_fee_(0.75%)":"Processing Fee (0.75%)",
+  "processing_fee":"Processing Fee (0.75%)",
   "loan_tenure":"Loan Tenure",
   "authorized_person_email":"Authorized Person Email",
   "eligible_loan_amount":"Eligible Loan Amount",
@@ -140,6 +140,8 @@
   "citizenship_photo": "Citizenship Photo",
   "Loan_Period_In_Months": "Loan Period(In Months)",
   "Interest_Rate": "Interest Rate",
+  "base_interest_rate": "Base Interest Rate",
+  "premium_interest_rate": "Premium Interest Rate",
   "Download_Board_minute": "Download Sample Board Minute",
   "This_person_is_authorized_person_to_apply_for_loan_&_same_has_to_be_mentioned_in_the_board_minute_as_well." : "This person is authorized person to apply for loan & same has to be mentioned in the board minute as well",
   "payment_frequency" : "Payment Frequency",
@@ -157,5 +159,6 @@
   "done": "Done",
   "you_can_now_proceed_with_your_application": "You can now proceed with your application",
   "account_created_successfully": "Account created successfully",
-  "you_can_now_login_with_your_new_password": "You can now login with your new password"
+  "you_can_now_login_with_your_new_password": "You can now login with your new password",
+  "total": "Total"
 }
