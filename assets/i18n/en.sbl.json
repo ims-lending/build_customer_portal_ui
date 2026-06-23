@@ -1,0 +1,8 @@
+{
+    "do_you_have_an_account_with_the_selected_bank": "Do your firm/company hold business account with Siddhartha Bank?"
+    ,"existing_loan_check": "Do your business have existing loan o/s with other BFI's?"
+    ,"action_not_allowed_due_to_outstanding_loans" : "Dear Customer,<br/>Your request can’t be processed as you don’t have account with Siddhartha Bank and/or utilizing credit facility from other BFI’s."
+    ,"loan_processing_fee_notes":"STRO charge as applicable shall be deduced from account along with loan processing fee (0.75% of Applied Loan Amount) at the time of loan processing."
+    ,"i_have_read_terms": "I have read, understood and agreed on all terms and conditions"
+    ,"i_agree_terms" : "Proceed"
+}
