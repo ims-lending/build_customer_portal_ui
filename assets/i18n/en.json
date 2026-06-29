@@ -161,5 +161,6 @@
   "account_created_successfully": "Account created successfully",
   "you_can_now_login_with_your_new_password": "You can now login with your new password",
   "total": "Total",
-  "submit": "Submit"
+  "submit": "Submit",
+  "approx_interest_amount":"Approx. Yearly Interest Amount"
 }
