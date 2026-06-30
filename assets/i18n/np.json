@@ -1,4 +1,5 @@
 {
+  "application_number": "आवेदन नम्बर",
   "bank_list": "बैंकहरूको सूची",
   "list_of_eligible_banks": "योग्य बैंकहरूको सूची",
   "select_a_bank_to_apply_for_loan": "ऋणको लागि आवेदन गर्न बैंक चयन गर्नुहोस्",
@@ -16,11 +17,11 @@
   "email_is_required": "इमेल अनिवार्य छ",
   "email_address": "इमेल पत्र",
   "do_not_have_an_account": "खाता छैन?",
-  "authorized_person_mobile_notes": "मान्यता बिषयको बोर्ड मिनिट्स/साझा बिषयको साझा मिनिट्स/साझा बिषयको साझा मिनिट्स",
   "resend_otp": "ओटीपी पुन: भेज्नुहोस्",
   "password_is_required": "पासवर्ड अनिवार्य छ",
+  "authorized_person_mobile_notes": "यो व्यक्ति ऋणको लागि आवेदन दिन अधिकार प्राप्त व्यक्ति हो र यस विषयमा बोर्ड बैठकको कार्यविवरणमा समेत उल्लेख गर्नुपर्छ।",
   "change_password": "पासवर्ड बदल्नुहोस्",
-  "loan_processing_fee_notes":"ऋण प्रक्रिया कम्पनी रकम 0.75 अधिकतम ऋण रकम भन्दा बढी हुन सक्दैन",
+  "loan_processing_fee_notes":"ऋणको लागि आवेदन गर्दा 0.75% प्रक्रिया शुल्क लाग्नेछ।",
   "password_changed_successfully": "पासवर्ड सफलतापूर्वक बदलियो",
   "new_password": "नयाँ पासवर्ड",
   "mobile_number":"मोबाइल नंबर",
@@ -160,5 +161,6 @@
   "account_created_successfully": "सफलतापूर्वक खाता बनाइएको छ।",
   "you_can_now_login_with_your_new_password": "अब तपाई नयाँ पासवर्डलाई लगइन गर्न सक्नुहुन्छ।",
   "total": "कुल",
-  "submit": "पेश गर्नुहोस्"
+  "submit": "पेश गर्नुहोस्",
+  "approx_interest_amount":"अनुमानित वार्षिक ब्याज रकम"
 }
